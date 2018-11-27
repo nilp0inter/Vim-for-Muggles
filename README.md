@@ -1,2 +1,2 @@
 # Vim-for-Muggles
-A course on Vim
+A one day workshop on Vim
