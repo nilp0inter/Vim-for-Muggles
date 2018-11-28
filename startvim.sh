@@ -1,3 +1,3 @@
 #!/bin/sh
 BASEDIR=$(dirname "$0")
-vim --clean -S $BASEDIR/init.cfg $BASEDIR/examples/*.md
+vim --clean -S $BASEDIR/init.cfg
