@@ -1,0 +1,37 @@
+Insert a new column into a table
+================================
+
+
+Mission
+-------
+
+Add an empty column in the table, between Company and Contact, named
+Budget.
+
+
+Instructions
+------------
+
+  1. Place the cursor in the `|` character between Company and Contact.
+  2. Enter visual block mode with Ctrl-v.
+  3. Go down to the last row.
+  4. Copy using `y`.
+  5. Paste using `p`.
+  6. Enter again visual block mode with Ctrl-v and go down again.
+  7. Insert at the beginning of the block with `I` and enter 8 blank spaces.
+  8. Press Esc to propagate the changes to the whole block.
+  9. Use replace mode `R` where necessary to fill the missing separators
+     and the column header.
+
+
+Text
+----
+
+| Company                       | Contact          | Country
++-------------------------------+------------------+--------
+| Alfreds Futterkiste           | Maria Anders     | Germany
+| Centro comercial Moctezuma    | Francisco Chang  | Mexico
+| Ernst Handel                  | Roland Mendel    | Austria
+| Island Trading                | Helen Bennett    | UK
+| Laughing Bacchus  Winecellars | Yoshi Tannamuri  | Canada
+| Magazzini Alimentari Riuniti  | Giovanni Rovelli | Italy

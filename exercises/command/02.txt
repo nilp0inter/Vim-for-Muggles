@@ -1,0 +1,15 @@
+Justify to the right
+====================
+
+
+Mission
+-------
+
+Adjust all the lines of this file to the right (width 90).
+
+
+Instructions
+------------
+
+  1. Set the maximum line width to 90 characters `:set textwidth=90`.
+  2. Combine the whole file range `%` with the `right` ex-command: `:%right`

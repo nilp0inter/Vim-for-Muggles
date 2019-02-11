@@ -1,0 +1,30 @@
+Change the first part of a line (2)
+===================================
+
+
+Mission
+-------
+
+Replace the text preceding the dollar sign in each line with "The Dude".
+
+
+Instructions
+------------
+
+  1. Search for the dollar sign `/@` and press Enter.
+  2. Change the text to the start of the line with `c0`.
+  3. Write "The Dude" and press Esc.
+  4. Search again with `n` until you are in the next line.
+  5. Repeat the last action with `.`.
+  6. Repeat from step 4.
+
+
+Text
+----
+
+He@ is the greatest percolator when he really starts to romp.
+You@ wanna be where you can see, our troubles are all the same.
+You@ wanna be where everybody knows your name.
+Wally Gator@ is a swinging alligator in the swamp.
+Chosen from among all others by the Immortal Elders - Solomon@, Hercules, Atlas - Billy Batson and his mentor travel the highways.
+You@ wanna go where people know, people are all the same, you wanna go where everybody knows your name.

@@ -1,0 +1,31 @@
+Center selected lines
+=====================
+
+
+Mission
+-------
+
+Center all lines in text.
+
+
+Instructions
+------------
+
+  1. Place the cursor at the first line of the text.
+  2. Enter visual line mode with `V`.
+  3. Go to the last line with `j`.
+  4. Enter the command `:center`.
+
+
+Text
+----
+
+Checkout
+Personal information
+First name
+Last name
+Email
+We will send you a confirmation email
+Country
+ZIP Code
+

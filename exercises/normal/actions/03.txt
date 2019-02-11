@@ -1,0 +1,35 @@
+Append at the end of the line
+=============================
+
+
+Mission
+-------
+
+Add the simbol `;` at the end of each line in `Text`.
+
+
+Instructions
+------------
+
+  1. Place the cursor in the line.
+  2. Insert at the end of the line with `A`.
+  3. Input `;` and press Esc.
+  4. Go to the next line and repeat with `.`.
+
+
+Text
+----
+
+    struct cpuhp_step *sp
+    int ret = 0
+    ret = cpuhp_reserve_state(state)
+    if (ret < 0) return ret
+    state = ret
+    sp = cpuhp_get_step(state)
+    if (name && sp->name) return -EBUSY
+    sp->startup.single = startup
+    sp->teardown.single = teardown
+    sp->name = name
+    sp->multi_instance = multi_instance
+    INIT_HLIST_HEAD(&sp->list)
+    return ret

@@ -1,0 +1,27 @@
+Increment numeric values
+========================
+
+
+Mission
+-------
+
+Increment all values in `Text` by 100 (decimal).
+
+
+Instructions
+------------
+
+  1. Place the cursor in the same line as the value, after or in the
+     value.
+  2. Perform 100 times the command Ctrl-a.
+  3. Go to the next line.
+  4. Repeat with `.`.
+
+
+Text
+----
+
+  * 1942
+  * -1942
+  * 0x796
+  * 0b11110010110

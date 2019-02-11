@@ -1,0 +1,34 @@
+Shift right the bottom part of the file
+=======================================
+
+
+Mission
+-------
+
+Indent to the right all the text in `Text`.
+
+
+Instructions
+------------
+
+  * Place the cursor at the start of the text.
+  * Combine the indent right operator `>` with the go to the end of the
+    file motion `G`.
+
+
+Text
+----
+
+I bet we been together for a million years, And I bet we'll be together
+for a million more. Oh, It's like I started breathing on the night we
+kissed, and I can't remember what I ever did before. What would we do
+baby, without us? What would we do baby, without us? And there ain't no
+nothing we can't love each other through. What would we do baby, without
+us? Sha la la la.
+
+Dance your cares away, worry's for another day. Let the music play, down
+at Fraggle Rock! Work you cares away, dancing's for another day. Let the
+Fraggles play, We're Gobo, Mokey, Wembley, Boober, Red! Dance your cares
+away, worry's for another day. Let the music play, down at Fraggle Rock!
+Down at Fraggle Rock! Down at Fraggle Rock.
+

@@ -1,0 +1,28 @@
+Uppercase inside quotes
+=======================
+
+
+Mission
+-------
+
+Transform all quoted text into uppercase.
+
+
+Instructions
+------------
+
+  1. Place the cursor at a quoted text.
+  2. Combine the uppercase command `gU` with the 'inside quotes text
+     object' `i"`.
+  3. Go to the next quoted text and repeat.
+
+
+Text
+----
+
+People let me tell you 'bout my "best friend", he's a warm-hearted
+person who'll love me till the end. People let me "tell" you 'bout my
+best friend, he's a "one boy cuddly toy", my up, my down, my pride and
+joy.  People let me tell you 'bout him he's "so much fun" whether we're
+talkin' man to man or whether we're talking son to son. Cause he's my
+best friend. Yes he's my "best friend".

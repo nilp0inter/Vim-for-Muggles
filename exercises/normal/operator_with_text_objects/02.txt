@@ -1,0 +1,29 @@
+Format a paragraph
+==================
+
+
+Mission
+-------
+
+Format a paragraph so the lines have a maximum length of 80 characters.
+
+
+Instructions
+------------
+
+  1. Set the text width to 80 characters. `:set textwidth=80`
+  2. Place the cursor in the first paragraph.
+  3. Combine the format command `gq` with the a-paragraph text object `ap`.
+  4. Go to the next paragraph and repeat.
+
+
+Text
+----
+
+When Captain America throws his mighty shield, all those who chose to oppose his shield must yield! If he's led to a fight and a duel is due, then the red and the white and the blue'll come through! When Captain America throws his mighty shield!
+
+I am Adam, Prince of Eternia, Defender of the Secrets of Castle Greyskull. This is Kringer, my fearless friend. Fabulous, secret powers were revealed to me the day I held aloft my magic sword and said: "By the Power of Greyskull!" I have the power! Kringer became the mighty BattleCat and I became He-man, the most powerful man in the Universe! Only three others share this secret... Our friends the Sorceress, Man-at-Arms, and Orko. Together we defend Castle Greyskull from the evil forces of Skeletor. He-man!
+
+Butterfly in the sky, I can go twice as high. Take a look, it's in a book - Reading Rainbow. I can go anywhere! Friends to know and ways to grow - Reading Rainbow. I can be anything! Take a look, it's in a book - Reading Rainbow. Reading Rainbow, Reading Rainbow, Reading Rainbow, Reading Rainbow!
+
+Sunny day, sweepin' the clouds away. On my way to where the air is sweet. Can you tell me how to get, how to get to Sesame Street? Come and play, everything's A-OK. Friendly neighbors there, that's where we meet. Can you tell me how to get, how to get to Sesame Street?

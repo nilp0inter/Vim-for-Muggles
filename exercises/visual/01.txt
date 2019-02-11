@@ -1,0 +1,24 @@
+Using visual mode
+=================
+
+
+Mission
+-------
+
+Remove the second and third sentence.
+
+
+Instructions
+------------
+
+  1. Place the cursor after the first period of the text.
+  2. Enter visual mode with `v`.
+  3. Advance to the next period using the find motion `f.`.
+  4. Keep advancing with the repeat find motion `;`.
+  5. Remove with the delete command `d`.
+
+
+Text
+----
+
+Butterfly in the sky, I can go twice as high. Take a look, it's in a book - Reading Rainbow. I can go anywhere! Friends to know and ways to grow - Reading Rainbow. I can be anything! Take a look, it's in a book - Reading Rainbow. Reading Rainbow, Reading Rainbow, Reading Rainbow, Reading Rainbow!

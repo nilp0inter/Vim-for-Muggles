@@ -1,0 +1,22 @@
+Delete while inserting text
+===========================
+
+
+Mission
+-------
+
+Try the different ways of correcting mistakes while inserting.
+
+
+Instructions
+------------
+
+  1. Insert a new line before the text using `o`.
+  2. Write the same text "...".
+  3. While writing correct your mistakes using: Ctrl-h, Ctrl-w and Ctrl-u
+
+
+Text
+----
+
+Butterfly in the sky, I can go twice as high.

@@ -1,0 +1,23 @@
+Copy above the cursor
+=====================
+
+
+Mission
+-------
+
+Complete all the possible directions: north, east, west, south.
+
+
+Instructions
+------------
+
+  1. Place the cursor in the last line and insert a new one with `o`.
+  2. While in insert mode press Ctrl-y until the last word.
+  3. Continue writing "east."
+  4. Repeat until you complete all possible directions.
+
+
+Text
+----
+
+- You can go: north.

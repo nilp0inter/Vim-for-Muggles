@@ -1,0 +1,32 @@
+Replace inside the boxes
+========================
+
+
+Mission
+-------
+
+Replace all box labes by "THE BOX".
+
+
+Instructions
+------------
+
+  1. Place over the text to be replaced.
+  2. Enter Replace mode by pressing `R`.
+  3. Write "THE BOX" and the needed spaces to remove the old text.
+
+
+Text
+----
+
+   +---------------+     +----------+        +---------------+
+   |               |     |          |        |               |
+   |      CPU      |     |  CACHE   +--------+               |
+   |               |     |          |        |               |
+   +---------------+     +----------+        |               |
+            |                                |   CHINA GOV   |
+            |         +----------------+     |               |
+            |         |                |     |               |
+            +---------+ GLOBAL MEMORY  +---->|               |
+                      |                |     |               |
+                      +----------------+     +---------------+

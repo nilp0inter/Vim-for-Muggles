@@ -1,0 +1,30 @@
+Complete words while writing
+============================
+
+
+Mission
+-------
+
+Write the following words one per line: weird, accommodate,
+handkerchief, indict, rhythm.
+
+
+Instructions
+------------
+
+  1. Place the cursor in the bullet point.
+  2. Insert at the end with `A`.
+  3. Start writing the word.
+  4. After a few characters press Ctrl-p to see available completions.
+  5. Keep pressing Ctrl-p/Ctrl-n until you are over the desired word and
+     press Esc.
+
+
+Text
+----
+
+  *
+  *
+  *
+  *
+  *
