@@ -1,0 +1,40 @@
+Text Substitution
+=================
+
+
+Mission
+-------
+
+Replace all the instances of the word " da " by " the ".
+
+
+Instructions
+------------
+
+  1. Combine the whole file range `%` with the substitution command to
+     produce `:%s/ da / the /gc`.
+     
+
+Text
+----
+
+There were six people who loved to watch television, but they didn't
+like what they saw. Armed with determination and a strong will to change
+the course of television, they wrote their own shows, but that wasn't
+enough, they had to sell them. They went straight to da networks, but
+the networks were not ready for them. But did that stop them? No. They
+built their own network and they liked what they saw.
+
+Mister Trouble never hangs around when he hears this Mighty sound: "Here
+I come to save da day!" That means that Mighty Mouse is on his way. Yes
+sir, when there is a wrong to right Mighty Mouse will join da fight. On
+the sea or on da land, he gets da situation well in hand!
+
+This is Herman Brooks. Herman is just like da rest of us. Everyday he
+has to make all kinds of decisions like what to wear, whom to date and
+when to panic. Now these decisions should be easy but if you take a look
+inside Herman's head, you'll see why he sometimes has trouble making up
+his mind. Sometimes they agree... usually they don't. But da struggle
+is going on inside all of us and it's all going on inside Herman's head.
+
+
