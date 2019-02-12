@@ -13,7 +13,7 @@ Instructions
 
   1. Use `dd` to delete a line.
   2. Move to a new line using `j` and `k`.
-  3. Paste the line with `y`.
+  3. Paste the line with `p`.
 
 
 Text

@@ -11,7 +11,7 @@ Add the system current date after the text.
 Instructions
 ------------
 
-  1. Place the cursor at the end of the file.
+  1. Place the cursor at the last line of the file.
   2. Read the output of the system command "date" with `:r!date`.
   3. Go back to the last line with `-`.
   4. Join the date with the last line with the action `J`.

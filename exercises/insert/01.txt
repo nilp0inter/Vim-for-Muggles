@@ -12,7 +12,7 @@ Instructions
 ------------
 
   1. Insert a new line before the text using `o`.
-  2. Write the same text "...".
+  2. Write the same text "Butterfly ...".
   3. While writing correct your mistakes using: Ctrl-h, Ctrl-w and Ctrl-u
 
 

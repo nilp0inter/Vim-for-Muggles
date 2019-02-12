@@ -5,7 +5,7 @@ Justify to the right
 Mission
 -------
 
-Adjust all the lines of this file to the right (width 90).
+Adjust ALL the lines of this file to the right (width 90).
 
 
 Instructions

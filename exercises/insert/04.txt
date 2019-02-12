@@ -14,6 +14,7 @@ Instructions
   1. Place over the text to be replaced.
   2. Enter Replace mode by pressing `R`.
   3. Write "THE BOX" and the needed spaces to remove the old text.
+  4. Do the same for all 4 boxes.
 
 
 Text

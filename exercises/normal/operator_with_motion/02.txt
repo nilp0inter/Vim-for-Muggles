@@ -5,17 +5,18 @@ Change the first part of a line
 Mission
 -------
 
-Replace the text preceding the dollar sign in each line with "The Dude".
+Replace the text preceding the at sign "@" in each line with "The Dude".
 
 
 Instructions
 ------------
 
-  1. Search for the dollar sign `/@` and press Enter.
-  2. Change the text to the start of the line with `c0`.
-  3. Write "The Dude" and press Esc.
-  4. Search again with `n` until you are in the next line.
-  5. Repeat from step 2.
+  1. Search for the at sign `/@` and press Enter.
+  2. Press `n` until you arrive at the first line in `Text`.
+  3. Change the text to the start of the line with `c0`.
+  4. Write "The Dude" and press Esc.
+  5. Search again with `n` until you are in the next line.
+  6. Repeat from step 2.
 
 
 Text

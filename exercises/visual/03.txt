@@ -12,7 +12,8 @@ Budget.
 Instructions
 ------------
 
-  1. Place the cursor in the `|` character between Company and Contact.
+  1. Place the cursor in first row at the `|` character between Company
+     and Contact.
   2. Enter visual block mode with Ctrl-v.
   3. Go down to the last row.
   4. Copy using `y`.

@@ -14,8 +14,8 @@ Instructions
 
   1. Place the cursor in the bullet point.
   2. Insert at the end with `A`.
-  3. Start writing the word.
-  4. After a few characters press Ctrl-p to see available completions.
+  3. Writing the first character of the word.
+  4. Press Ctrl-p to see available completions.
   5. Keep pressing Ctrl-p/Ctrl-n until you are over the desired word and
      press Esc.
 
@@ -23,8 +23,8 @@ Instructions
 Text
 ----
 
-  *
-  *
-  *
-  *
-  *
+  * 
+  * 
+  * 
+  * 
+  * 
