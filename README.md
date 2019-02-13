@@ -1,11 +1,38 @@
 # Vim for Muggles™
 
+A two hours workshop on Vim.
 
-A two hours workshop on Vim
 
 ## Modes
 
+Understanding Vim modes is critical for the effective use of the editor. 
+
 ![](https://raw.githubusercontent.com/nilp0inter/Vim-for-Muggles/master/modes.png)
+
+
+### Normal Mode
+
+  * Is the default mode.
+  * Allows fast movement through the text
+  * Fast text modification
+  * Switching to other modes
+
+
+### Insert Mode
+
+  * Modify the file inserting new text
+
+
+### Visual Mode
+
+  * Select part of the text to operate over it
+
+
+### Command Mode
+
+  * Editor basic operation (open, close, write...)
+  * Bulk editing through `ex-commands`
+
 
 ## License
 
