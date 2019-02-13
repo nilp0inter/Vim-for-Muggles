@@ -2,6 +2,13 @@
 
 A two hours workshop on Vim.
 
+Start the editor using the provided script to disable all user plugins
+and arrow keys.
+
+```bash
+$ ./startvim.sh
+```
+
 
 ## Exercises
 
