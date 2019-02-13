@@ -11,7 +11,7 @@ Try the different ways of correcting mistakes while inserting.
 Instructions
 ------------
 
-  1. Insert a new line before the text using `o`.
+  1. Insert a new line after the text using `o`.
   2. Write the same text "Butterfly ...".
   3. While writing correct your mistakes using: Ctrl-h, Ctrl-w and Ctrl-u
 
