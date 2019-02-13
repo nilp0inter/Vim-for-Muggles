@@ -4,6 +4,7 @@
 A two hours workshop on Vim
 
 
+## License
 
 The cheatsheet is a derivative work of [Martin “BruXy” Bruchanov](http://gnulinux.guru/?about)'s [Vi IMproved cheatsheet](http://gnulinux.guru/?ViM) with permission of the author.
 
