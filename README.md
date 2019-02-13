@@ -1,2 +1,2 @@
 # Vim-for-Muggles
-A one day workshop on Vim
+A two hours workshop on Vim
