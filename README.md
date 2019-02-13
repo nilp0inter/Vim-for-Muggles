@@ -3,6 +3,27 @@
 A two hours workshop on Vim.
 
 
+## Exercises
+
+Do the exercises in the following order:
+
+  * files/moving_the_cursor.txt
+  * files/dracula.txt  (Practice all the movements of the cheatsheet)
+  * exercises/normal/operator_with_motion/\*
+  * exercises/normal/actions/\*
+  * exercises/normal/operator_with_text_objects/\*
+  * exercises/insert/\*
+  * exercises/visual/\*
+  * exercises/command/\*
+
+## The Cheatsheet
+
+  * Front: Selection of operation commands (open files, move through
+    windows...)
+  * Back: Actions, operations and motions available, sorted by mode (see
+    bellow)
+
+
 ## Modes
 
 Understanding Vim modes is critical for the effective use of the editor. 
