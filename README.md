@@ -3,6 +3,9 @@
 
 A two hours workshop on Vim
 
+## Modes
+
+![](https://raw.githubusercontent.com/nilp0inter/Vim-for-Muggles/master/modes.png)
 
 ## License
 
