@@ -35,7 +35,7 @@ Do the exercises in the following order:
 
 Understanding Vim modes is critical for the effective use of the editor. 
 
-![](https://raw.githubusercontent.com/nilp0inter/Vim-for-Muggles/master/modes.png)
+![](./modes.png)
 
 
 ### Normal Mode
